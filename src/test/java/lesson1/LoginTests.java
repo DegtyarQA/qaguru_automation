@@ -1,3 +1,5 @@
+package lesson1;
+
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.Test;
 
@@ -9,10 +11,10 @@ import static com.codeborne.selenide.Selenide.open;
 public class LoginTests {
 
     @Test
-    public void succesfullLoginTest() {
-        Configuration.holdBrowserOpen = true;кккк
-        Configuration.browser = "firefox";
-        open("https://qa.guru/ cms/system/login");
+    public void successfulLoginTest() {
+        //Configuration.holdBrowserOpen = true;
+        //Configuration.browser = "firefox";
+        open("https://qa.guru/cms/system/login");
         $("[name=email]").setValue("bgobq@mailto.plus");
         $("[name=password]").setValue("$4C$bZxc4");
         $(".btn-success").click();
@@ -21,9 +23,9 @@ public class LoginTests {
     }
 
     @Test
-    public void unsuccesfullLoginTest() {
+    public void unsuccessfulLoginTest() {
         Configuration.holdBrowserOpen = true;
-        Configuration.browser = "firefox";
+        //Configuration.browser = "firefox";
         open("https://qa.guru/cms/system/login");
         $("[name=email]").setValue("bgobq@mailto1.plus");
         $("[name=password]").setValue("$4C$bZxc4");
