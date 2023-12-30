@@ -32,5 +32,4 @@ public class LoginTests {
         $(".btn-success").click();
         $(".login-fo rm").shouldHave(text("Неверный пароль"));
     }
-
 }
