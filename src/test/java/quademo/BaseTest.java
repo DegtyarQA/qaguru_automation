@@ -3,12 +3,14 @@ package quademo;
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeAll;
 import pages.RegistrationPage;
+import utils.DataGenerator;
 
 import static com.codeborne.selenide.Selenide.executeJavaScript;
 
 public class BaseTest {
 
     RegistrationPage registrationPage = new RegistrationPage();
+    DataGenerator dataGenerator = new DataGenerator();
 
     @BeforeAll
     static void beforeAll() {
