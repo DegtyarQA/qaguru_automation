@@ -4,6 +4,7 @@ import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
 import components.CalendarCust;
 import components.ModalWindowSuccessRegistration;
+import io.qameta.allure.Step;
 
 import java.io.File;
 
@@ -27,6 +28,7 @@ public class RegistrationPage {
     private final static SelenideElement submitBtn = $("#submit");
 
 
+    @Step("Открываем страницу")
     public RegistrationPage openRegistrationFormPage() {
         open("/automation-practice-form");
         titlePageText.shouldHave(Condition.exactText("Practice Form"));

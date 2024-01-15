@@ -1,11 +1,17 @@
 package quademo;
 
 import com.codeborne.selenide.Configuration;
+import com.codeborne.selenide.logevents.SelenideLogger;
+import helpers.Attach;
+import io.qameta.allure.selenide.AllureSelenide;
+import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.BeforeEach;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import pages.RegistrationPage;
 import utils.DataGenerator;
 
-import static com.codeborne.selenide.Selenide.executeJavaScript;
+import java.util.Map;
 
 public class BaseTest {
 
@@ -18,6 +24,27 @@ public class BaseTest {
         Configuration.browserSize = "1920x1080";
         //Configuration.holdBrowserOpen = true;
         //WebDriverRunner.getWebDriver().manage().window().maximize();
-        System.out.println("BeforeAll from BaseTest!!!");
+        Configuration.browser = "firefox";
+        Configuration.browserVersion="98.0";
+        Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";
+        DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
+        desiredCapabilities.setCapability("selenoid:options", Map.<String, Object>of(
+                "enableVNC", true,
+                "enableVideo", true
+        ));
+
+        Configuration.browserCapabilities = desiredCapabilities;
+    }
+
+    @BeforeEach
+    void addListener(){
+        SelenideLogger.addListener("AllureSelenide", new AllureSelenide());
+    }
+
+    @AfterEach
+    void addAttach(){
+        Attach.screenshotAs("Last screen");
+        Attach.pageSource();
+        Attach.browserConsoleLogs();
     }
 }
