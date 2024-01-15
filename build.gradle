@@ -38,7 +38,7 @@ test {
     useJUnitPlatform()
 }
 
-task simple_test(type: Test) {
+task remote_test_plan_ci(type: Test) {
     useJUnitPlatform {
         includeTags("simploa")
     }
