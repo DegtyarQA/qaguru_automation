@@ -1,19 +1,16 @@
 package quademo;
 
-import com.codeborne.selenide.Condition;
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.params.provider.ValueSource;
 
 import java.io.File;
-
-import static com.codeborne.selenide.Selectors.byText;
-import static com.codeborne.selenide.Selenide.*;
 
 public class FormTest extends BaseTest {
 
     private final File FILE_TO_LOAD = new File("src/test/resources/fileToLoad.jpg");
 
+    @Tag("simploa")
     @DisplayName("Форма регистрации")
     @Test
     void fillFormTest() {
@@ -33,7 +30,6 @@ public class FormTest extends BaseTest {
                 .closeBanners()
                 .submitForm()
                 .verifySuccesSubmitTitle()
-                .verifyOneDataInTable("Student Name", lastName + " " + firstName);
-        //sleep(50000);
+                .verifyOneDataInTable("Student Name", lastName +" " + firstName);
     }
 }

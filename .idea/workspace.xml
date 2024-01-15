@@ -4,18 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d47898b9-a2ae-4645-9079-96371b476f8e" name="Changes" comment="fix">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/qaguru_automation.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="d47898b9-a2ae-4645-9079-96371b476f8e" name="Changes" comment="add ci">
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/LoginTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qaguru_automation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson1/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593306479.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593306479.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593488682.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593488682.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593510462.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593510462.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593546155.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593546155.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593742929.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593742929.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593884849.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593884849.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702970508255.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702970508255.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702970542685.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702970542685.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702971063282.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702971063282.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/lesson1.LoginTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/lesson1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-lesson1.LoginTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/LoginTests.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/quademo/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/quademo/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/quademo/FormTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/quademo/FormTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +79,27 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="qaguru_automation" type="f1a62948:ProjectNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="qaguru_automation" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="qaguru_automation" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="qaguru_automation" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="qaguru_automation" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -50,6 +110,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -86,7 +148,11 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -95,8 +161,8 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Gradle.LoginTests.succesfullLoginTest (1)">
-    <configuration name="LoginTests.succesfullLoginTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.FormTest.fillFormTest">
+    <configuration name="ChangeLocalityTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -109,7 +175,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;lesson1.LoginTests.succesfullLoginTest&quot;" />
+            <option value="&quot;kz.solva.ChangeLocalityTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -120,7 +186,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="LoginTests.succesfullLoginTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ChangeLocalityTest.checkMenuButtonForLocality" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -133,7 +199,79 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;LoginTests.succesfullLoginTest&quot;" />
+            <option value="&quot;kz.solva.ChangeLocalityTest.checkMenuButtonForLocality&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="FormTest.fillFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;quademo.FormTest.fillFormTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="SolvaParametrizedTests.CheckMenuBusinessTitle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;kz.solva.SolvaParametrizedTests.CheckMenuBusinessTitle&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="SolvaParametrizedTests.llpFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;kz.solva.SolvaParametrizedTests.llpFormTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -146,8 +284,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.LoginTests.succesfullLoginTest (1)" />
-        <item itemvalue="Gradle.LoginTests.succesfullLoginTest" />
+        <item itemvalue="Gradle.FormTest.fillFormTest" />
+        <item itemvalue="Gradle.ChangeLocalityTest" />
+        <item itemvalue="Gradle.ChangeLocalityTest.checkMenuButtonForLocality" />
+        <item itemvalue="Gradle.SolvaParametrizedTests.llpFormTest" />
+        <item itemvalue="Gradle.SolvaParametrizedTests.CheckMenuBusinessTitle" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +302,12 @@
       <updated>1702592450537</updated>
       <workItem from="1702893077369" duration="14906000" />
       <workItem from="1702973822284" duration="31000" />
+      <workItem from="1703969269847" duration="18142000" />
+      <workItem from="1704285982222" duration="2152000" />
+      <workItem from="1704288519385" duration="26514000" />
+      <workItem from="1704653421233" duration="38000" />
+      <workItem from="1704708857076" duration="6247000" />
+      <workItem from="1705353645811" duration="4689000" />
     </task>
     <task id="LOCAL-00001" summary="first test">
       <option name="closed" value="true" />
@@ -194,7 +341,31 @@
       <option name="project" value="LOCAL" />
       <updated>1702906372645</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="page object done">
+      <option name="closed" value="true" />
+      <created>1703976999663</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703976999663</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix random data">
+      <option name="closed" value="true" />
+      <created>1704751629258</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704751629258</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add ci">
+      <option name="closed" value="true" />
+      <created>1705355637076</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705355637076</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +387,9 @@
     <MESSAGE value="two commit" />
     <MESSAGE value="two commit1" />
     <MESSAGE value="two commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="two commit2" />
+    <MESSAGE value="page object done" />
+    <MESSAGE value="fix random data" />
+    <MESSAGE value="add ci" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ci" />
   </component>
 </project>
