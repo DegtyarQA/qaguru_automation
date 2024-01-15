@@ -4,57 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d47898b9-a2ae-4645-9079-96371b476f8e" name="Changes" comment="add ci">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" afterDir="false" />
+    <list default="true" id="d47898b9-a2ae-4645-9079-96371b476f8e" name="Changes" comment="add ci3">
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593306479.0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593306479.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593488682.0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593488682.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593510462.0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593510462.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593546155.0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593546155.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593742929.0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593742929.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593884849.0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702593884849.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702970508255.0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702970508255.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702970542685.0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702970542685.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702971063282.0.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/1702971063282.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/lesson1.LoginTests.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/lesson1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-lesson1.LoginTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/LoginTests.class.uniqueId0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/quademo/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/quademo/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/quademo/FormTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/quademo/FormTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/kz/solva/ChangeLocalityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/kz/solva/ChangeLocalityTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,7 +267,7 @@
       <workItem from="1704288519385" duration="26514000" />
       <workItem from="1704653421233" duration="38000" />
       <workItem from="1704708857076" duration="6247000" />
-      <workItem from="1705353645811" duration="4689000" />
+      <workItem from="1705353645811" duration="5389000" />
     </task>
     <task id="LOCAL-00001" summary="first test">
       <option name="closed" value="true" />
@@ -365,18 +325,61 @@
       <option name="project" value="LOCAL" />
       <updated>1705355637076</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add ci2">
+      <option name="closed" value="true" />
+      <created>1705358662228</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705358662228</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add ci3">
+      <option name="closed" value="true" />
+      <created>1705358773231</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705358773231</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -390,6 +393,8 @@
     <MESSAGE value="page object done" />
     <MESSAGE value="fix random data" />
     <MESSAGE value="add ci" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ci" />
+    <MESSAGE value="add ci2" />
+    <MESSAGE value="add ci3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ci3" />
   </component>
 </project>
