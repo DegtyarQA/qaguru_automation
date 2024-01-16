@@ -30,6 +30,6 @@ public class FormTest extends BaseTest {
                 .closeBanners()
                 .submitForm()
                 .verifySuccesSubmitTitle()
-                .verifyOneDataInTable("Student Name", lastName +" " + firstName);
+                .verifyOneDataInTable("Student Name", lastName +" 3" + firstName);
     }
 }
