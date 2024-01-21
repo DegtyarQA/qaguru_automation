@@ -24,8 +24,8 @@ public class BaseTest {
         //Configuration.browserSize = "1920x1080";
         //Configuration.holdBrowserOpen = true;
         //WebDriverRunner.getWebDriver().manage().window().maximize();
-        //Configuration.browser = "chrome";
-        //Configuration.browserVersion="100.0";
+        Configuration.browser = "chrome";
+        Configuration.browserVersion="100.0";
         //Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";
         Configuration.remote = System.getProperty("remote_url");
         DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
