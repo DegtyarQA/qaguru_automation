@@ -41,6 +41,7 @@ test {
 tasks.withType(Test) {
     systemProperties(System.getProperties())
     useJUnitPlatform()
+}
 
 task remote_test_plan_ci(type: Test) {
     useJUnitPlatform {
