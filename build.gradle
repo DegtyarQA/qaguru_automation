@@ -38,6 +38,10 @@ test {
     useJUnitPlatform()
 }
 
+tasks.withType(Test) {
+    systemProperties(System.getProperties())
+    useJUnitPlatform()
+
 task remote_test_plan_ci(type: Test) {
     useJUnitPlatform {
         includeTags("simploa")
